@@ -8,14 +8,14 @@ This module contains tools to evaluate Markov chains.
 ### Prerequisites
 
 Ensure that the following is properly installed:
-- Python 2.7 Anaoncda distribution, see https://www.anaconda.com/distribution/.
+- Python 3
 - pydotplus. See https://pypi.org/project/pydotplus/. Note that pydotplus has also some requirements. 
 Among them is Graphviz, which can be installed from https://www.graphviz.org/. After installing Graphviz, do not to forget to add the folder "INSTALL_FOLDER_GRAPHVIZ\bin" to the PATH environment variable in Windows. 
 - tarjan. See https://pypi.org/project/tarjan/.
 
 ### When using conda:
 
-Open Anaconda prompt in the source folder. Activate an environment with Python 2.7. Run consequently,
+Open Anaconda prompt in the source folder. Activate an environment with Python 3. Run consequently,
 
     python setup.py install
 
@@ -59,7 +59,8 @@ After installation, example usage is as follows:
 
 ## Running the tests
 
-Currently, there are no tests. In the source scripts, there are some standard calculations after the `if __name__ == "__main__":` statement that calculates some standard instances.
+Run file Test3.py to test using the current working directory.
+
 
 ## Authors
 
