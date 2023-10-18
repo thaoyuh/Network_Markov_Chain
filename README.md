@@ -1,7 +1,7 @@
 
 # Markov chain
 
-I'm maintaining and update the KDA algorithm developed by Joost! We aim to extend the project and develop new additions to the algorithms.
+I'm maintaining and updating the KDA algorithm developed by Joost! We aim to extend the project and develop new additions to the algorithms.
 
 This module contains tools to evaluate Markov chains.
 
