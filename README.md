@@ -69,6 +69,9 @@ Run file Test3.py to test using the current working directory.
 Joost Berkhout
 Email j.berkhout@cwi.nl
 
+Maintained by: Thao Le
+Email: t.p.t.le@businessdatascience.nl
+
 ## License
 
 None
